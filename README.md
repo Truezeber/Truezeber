@@ -51,9 +51,13 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
@@ -107,13 +111,9 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gatsby" height="40" alt="gatsby logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
 </div>
@@ -142,18 +142,6 @@
   </a>
   <a href="https://twitter.com/BycmozeKonrad" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Musik</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/215kbzegkoffpoywpbghqwi3i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
