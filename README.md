@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">My -not only- tech stack🪛</h2>
+<h2 align="center">My - not only - tech stack🪛</h2>
 
 ###
 
