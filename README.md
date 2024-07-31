@@ -38,10 +38,3 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Truezeber/Truezeber/output/snake.svg" alt="Snake animation" />
-
-###
