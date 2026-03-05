@@ -1,4 +1,4 @@
-<h1 align="center">Hayo! 🍃</h1>
+<h1 align="center">Hey! 🍃</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👉JS & TS developer<br><br>👉Creator of Typerio<br><br>👉Web enthusiast</p>
+<p align="left">👉JS & TS developer<br><br>👉Next.JS & React<br><br>👉Web enthusiast</p>
 
 ###
 
